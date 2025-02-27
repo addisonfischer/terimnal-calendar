@@ -21,7 +21,7 @@ int calcDayOfWeek(int month, int year){
 int main(void) {
 
 	int dayOfWeek, days, i, j;
-	char *monthName[] = {"January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+	char *monthName[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 	int monDay[12] = {30, 28, 30, 31, 30, 31, 30, 30, 31, 30, 31, 30};
 
 	time_t t = time(NULL);
