@@ -31,8 +31,8 @@ int main(void) {
 	days = ((tm.tm_year % 400 == 0 || tm.tm_year % 100 == 0 || tm.tm_year % 4 == 0) && tm.tm_mon + 1 == 2) ? 29 : monDay[tm.tm_mon];
 
 //	printf("%d\n", dayOfWeek);
-	
-	printf("\n\t\b\b\b\b%s - %d\n\n", monthName[tm.tm_mon], tm.tm_year+1900);
+	printf("\n\n\t  %d\n", tm.tm_year+1900);	
+	printf("\t%s\n\n", monthName[tm.tm_mon]);
 
 	printf(" Su  M  T  W Th  F Sa\n");
 
