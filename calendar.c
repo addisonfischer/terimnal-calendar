@@ -44,7 +44,7 @@ int main(void) {
 
 
 		if(j == tm.tm_mday){
-			printf(" \033[7m%2d\033[0m", j);
+			printf(" \033[96m\033[7m%2d\033[0m", j);
 		}
 		else printf("%3d", j);
 
