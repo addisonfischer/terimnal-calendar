@@ -12,3 +12,7 @@ I added it to my powershell profile to overwrite the default commands out of pur
 Please steal the code, improve it, ridicule it, etc- I'm sure there are thousands of these already in existance.
 
 ## Enjoy
+
+
+Example output:
+![Outut](example.png)
