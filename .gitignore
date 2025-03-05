@@ -1,1 +1,10 @@
+# Ignore .ilk, .obj, .exe, and .pdb files
+*.ilk
+*.obj
 *.exe
+*.pdb
+build/
+*.tmp
+*.bak
+.vs/
+.vscode/
