@@ -11,7 +11,7 @@ I added it to my powershell profile to overwrite the default commands out of pur
 
 Please steal the code, improve it, ridicule it, etc- I'm sure there are thousands of these already in existance.
 
-I may add some args later one, idk, we will see.
+I may add some args later on, idk, we will see.
 
 ## Enjoy
 
